@@ -9,6 +9,12 @@ This script uses (and requires):
 - don't download subtitles
 ## Usage
 Create a folder containing yt-dlp, ytsubconverter and yt-dlp-converter
+### Config file
+Optionally, create a config.ini using this template:
+```
+login=true
+browser=firefox
+```
 
 
 > Markdown written with [StackEdit](https://stackedit.io/).
